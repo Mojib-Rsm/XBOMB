@@ -47,7 +47,7 @@ cd XBOMB
 python x
 `
 <p align="center">
-  <img alt="Layout" src="xbomb.jpg">
+  <img alt="Layout" src="fuckinbox.jpg">
 </p>
 <h4 align="center">☆[UNINSTALL]☆<h4>
 
